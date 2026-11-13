@@ -1,0 +1,13 @@
+print("-------------Bienvenidos a mi calculadorxs--------------")
+b= input("ingresa el primer numero:")
+z= input("ingresa el segundo numero:")
+z= int(z)
+b= int(b)
+print ("la multiplicacion es:",b*z)
+print ("la divicion es:",b/z)
+print ("la suma es:",b+z)
+print ("la resta es.",b-z)
+print ("la potencia es",b**z)
+print ("la radicacion es:",b**(1/z))
+print ("----------Thank youu---------")
+
